@@ -1,7 +1,7 @@
 pipeline {
   agent any
      stages {
-        stage ('test') {
+        stage ('testing') {
             steps {
                 script {
                     sh "echo this is a test"
