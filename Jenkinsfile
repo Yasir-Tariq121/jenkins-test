@@ -5,6 +5,7 @@ pipeline {
             steps {
                 script {
                     sh "echo this is a test sample"
+
                 }
               } 
         }
