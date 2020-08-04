@@ -4,7 +4,7 @@ pipeline {
         stage ('test') {
             steps {
                 script {
-                    sh "echo this is a test sample"
+                    sh "echo this is a test sample new"
                 }
               } 
         }
